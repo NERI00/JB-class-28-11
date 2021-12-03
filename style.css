@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(90deg, rgba(101, 189, 179, 1) 19%, rgba(51, 200, 160, 1) 38%, rgba(132, 215, 170, 1) 62%, rgba(108, 219, 163, 1) 71%, rgba(153, 221, 160, 1) 80%);
+    height: 100vh;
+}
+
+input {
+    border-radius: 10px;
+}
+
+button {
+    height: 50px;
+    width: 70px;
+}
+
+.main-container {
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+}
+
+#header {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+#Run-code {
+    margin: 15px;
+    padding: 10px;
+}
